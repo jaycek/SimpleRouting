@@ -1,0 +1,10 @@
+.profiles{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.profiles-container{
+  display: flex;
+  gap: 2rem;
+}
